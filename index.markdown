@@ -17,9 +17,11 @@ Tengo experiencia en lenguajes de programación orientados a la investigación, 
 
 Aplicación del SPEA2 al cálculo de esquemas de dosificación para el tratamiento quimioterapéutico del cáncer. 2014, Maskana pp. 69-83. Revista Científica indexada en Latindex. Cuenca- Ecuador.
 
-Reconocimientos:
+#### Reconocimientos:
+
 "Aplicación del SPEA2 al cálculo de esquemas de dosificación para el tratamiento quimioterapéutico del cáncer". 
 Paper ganador en el track científico del TICEC 2014 (Red CEDIA) (https://ticec2014.cedia.edu.ec/es/papers-ganadores).
+
 PRIMER PREMIO EN EL GÉNERO MÚSICA AMATEUR FAAL 2005 
 
 Hablo Inglés y Francés y tengo especial interés en áreas como la Inteligencia Artificial, Machine Learning, Big Data, IoT e IoE, base de la bioinformática en el desarrollo de algoritmos.
