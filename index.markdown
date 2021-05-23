@@ -7,8 +7,6 @@ layout: home
 
 Ingeniero en Ciencias Computacionales, con 6 años de experiencia en el área de la Bioinformática, campo de creciente impacto en el mundo, especialmente en américa latina, donde es fundamental en áreas como el análisis de secuencias y anotación del genoma, el análisis de la expresión genética, el análisis de la expresión de proteínas, la predicción de estructuras y funciones de biomoléculas y la preservación de la biodiversidad, siendo esta última de particular interés para nuestro país.
 
-He realizado varios cursos y seminarios en Metagenómica, Tecnologías NGS, Computación de Alto Rendimiento, Data Science, Biología Molecular, Academic Writing y Biosensores en la Agricultura. Asistencia y participación en Congresos como el TIC.EC organizado por la Red CEDIA. 
-
 Tengo experiencia en lenguajes de programación orientados a la investigación, como Wolfram, Phyton y R, así como también conocimiento de programas bioinformáticos como Qiime y MEGA, entre otros. 
 
 ### Publicaciones Realizadas:
