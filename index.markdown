@@ -16,9 +16,7 @@ Aplicación del SPEA2 al cálculo de esquemas de dosificación para el tratamien
 **Reconocimientos:**
 
 "Aplicación del SPEA2 al cálculo de esquemas de dosificación para el tratamiento quimioterapéutico del cáncer". 
-Paper ganador en el track científico del TICEC 2014 (Red CEDIA) (https://ticec2014.cedia.edu.ec/index.php/papers-ganadores).
+Paper ganador en el track científico del TICEC 2014 (Red CEDIA) [https://ticec2014.cedia.edu.ec/index.php/papers-ganadores](https://ticec2014.cedia.edu.ec/index.php/papers-ganadores)
 
-PRIMER PREMIO EN EL GÉNERO MÚSICA AMATEUR FAAL 2005 
-
-Hablo Inglés y Francés y tengo especial interés en áreas como la Inteligencia Artificial, Machine Learning, Big Data, IoT e IoE, base de la bioinformática en el desarrollo de algoritmos.
+PRIMER PREMIO EN EL GÉNERO MÚSICA AMATEUR FAAL 2005.
 
