@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Ingeniero en Ciencias Computacionales, con 6 años de experiencia en el área de la Bioinformática, campo de creciente impacto en el mundo, especialmente en américa latina, donde es fundamental en áreas como el análisis de secuencias y anotación del genoma, el análisis de la expresión genética, el análisis de la expresión de proteínas, la predicción de estructuras y funciones de biomoléculas y la preservación de la biodiversidad, siendo esta última de particular interés para nuestro país.
+**Ingeniero en Ciencias Computacionales**, con 6 años de experiencia en el área de la Bioinformática, campo de creciente impacto en el mundo, especialmente en américa latina, donde es fundamental en áreas como el análisis de secuencias y anotación del genoma, el análisis de la expresión genética, el análisis de la expresión de proteínas, la predicción de estructuras y funciones de biomoléculas y la preservación de la biodiversidad, siendo esta última de particular interés para nuestro país.
 
 Tengo experiencia en lenguajes de programación orientados a la investigación, como Wolfram, Phyton y R, así como también conocimiento de programas bioinformáticos como Qiime y MEGA, entre otros. 
 
