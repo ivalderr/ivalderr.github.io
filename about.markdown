@@ -9,6 +9,3 @@ permalink: /about/
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=elB4xj8UoaM
 " target="_blank"><img src="http://img.youtube.com/vi/elB4xj8UoaM/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<a href="http://www.youtube.com/channel/UCSVyLr286JUsRrM8FQxgQKw" target="_blank"><img src="http://img.youtube.com/channel/UCSVyLr286JUsRrM8FQxgQKw/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
