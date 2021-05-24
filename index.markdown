@@ -11,7 +11,7 @@ Tengo experiencia en lenguajes de programación orientados a la investigación, 
 
 **Publicaciones Realizadas:**
 
-Aplicación del SPEA2 al cálculo de esquemas de dosificación para el tratamiento quimioterapéutico del cáncer. 2014, Maskana pp. 69-83. Revista Científica indexada en Latindex. Cuenca- Ecuador.
+[Aplicación del SPEA2 al cálculo de esquemas de dosificación para el tratamiento quimioterapéutico del cáncer. 2014, Maskana pp. 69-83. Revista Científica indexada en Latindex. Cuenca- Ecuador.](http://dspace.ucuenca.edu.ec/handle/123456789/21387)
 
 **Reconocimientos:**
 
